@@ -1,10 +1,11 @@
 kana
-peruna 
-porkkana
 kissa
 koira
+peruna 
+porkkana
+ananas
+kana
+liha
 salaatti
-ruisleipä
-omena 
-peruna
-
+omena
+banaani
